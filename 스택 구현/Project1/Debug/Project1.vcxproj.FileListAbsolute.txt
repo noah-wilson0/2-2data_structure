@@ -1,2 +1,0 @@
-C:\자료구조\Project1\Debug\Project1.exe
-C:\스택 구현(순차구조 이용)\Project1\Debug\Project1.exe
